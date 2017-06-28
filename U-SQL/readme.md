@@ -1,3 +1,3 @@
-#U-SQL
+# -SQL
 
 Samples and Extractors for U-SQL.
