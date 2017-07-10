@@ -1,3 +1,4 @@
 # U-SQL
+Examples and extensions for U-SQL.
 
-Samples and Extractors for U-SQL.
+## Excel Extractor
